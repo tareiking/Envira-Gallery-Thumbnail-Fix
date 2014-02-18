@@ -1,0 +1,7 @@
+.wp-admin #envira-tabs .envira-gallery-image img{
+	width: 100%;
+	height: 100%;
+ }
+/* Leif Theden @ Envira Forums  */
+.envira-gallery-status-pending img { max-width: 100% }
+.envira-gallery-status-active img { max-width: 100% }
